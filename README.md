@@ -1,1 +1,3 @@
 # typescript-decorator
+
+## Install
